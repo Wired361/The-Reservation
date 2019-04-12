@@ -5,13 +5,6 @@
 * Clean up core javascript
 * Optimize API and allow for non-static calls
 
-<summary>
-<options>
-[Goals](#goals)
-[Progress](#progress)
-
-
-
 # Goals for this repo:
 
 * Tooltips for leaflet D3 overlay
